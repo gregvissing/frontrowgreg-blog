@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Learning to be an Accessibility-focused Front-End Developer
-date: 2020-07-02T06:43:12.897Z
+date: 2020-10-25T06:43:12.897Z
 tags:
   - Front-End Developer; Web Accessibility
 ---
