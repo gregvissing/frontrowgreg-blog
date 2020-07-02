@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Words of Wisdom by Stan Lee regarding Work
 date: 2020-10-25T06:49:56.899Z
 tags:
-  - Words of Wisdom
+  - Words of Wisdom; Stan Lee
 ---
 It's been a little over two years since the passing of [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee), but the following quote of his always makes me reflect on what I've learned, to do the job that I love.
 
