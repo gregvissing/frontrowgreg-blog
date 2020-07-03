@@ -17,7 +17,8 @@
     },
     {
       "text": "Bookmarks",
-      "url": "bookmarks"
+      "url": "bookmarks",
+      "external": false
     }
   ]
 }
