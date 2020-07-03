@@ -16,9 +16,8 @@
       "external": false
     },
     {
-      "text": "Bookmarks",
-      "url": "https://front-row-greg-blog.netlify.app/bookmarks",
-      "external": false
+      "text": "Resources",
+      "url": "/resources"
     }
   ]
 }
