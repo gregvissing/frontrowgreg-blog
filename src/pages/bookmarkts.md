@@ -1,5 +1,5 @@
 ---
 layout: layouts/page.njk
-title: Bookmarkts
+title: Bookmarks
 ---
 Bookmarks for Days!
