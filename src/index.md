@@ -7,6 +7,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: /images/frontrowgreg.png
 ---
-Hello, I'm Greg
-
 Follow along my Web Development adventure as I write about the various projects I'm working on, handy tips & tricks and solutions that have helped me out
