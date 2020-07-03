@@ -21,7 +21,7 @@
 
 		>img {
 			position: absolute;
-			bottom: -8rem;
+			bottom: -6.75rem;
 			right: 0;
 			width: 50%;
 		}
@@ -33,7 +33,8 @@
 		color: var(--color-theme-feature-text);
 
 		&--compact {
-			max-width: 20ex;
+			max-width: 100%;
+			// max-width: 20ex;
 		}
 	}
 }
