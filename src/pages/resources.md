@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: Resources
-permalink: /resources
+permalink: ""
 ---
 Bookmarks for Days!
