@@ -5,7 +5,7 @@ permalink: /about/index.html
 ---
 ### Background
 
-My name is Greg Vissing and I'm from Cincinnati, OH. I'm currently a Web Developer & UI Designer at the University of Cincinnati Foundation. I specialize in custom Web Development. My focus when developing a project is to make it as user friendly as possible no matter what device it is being viewed on. My attention to detail when creating training documents will allow clients to update their website with ease.
+My name is Greg from Cincinnati, OH. I'm currently a Web Developer & UI Designer at the University of Cincinnati Foundation. I specialize in custom Web Development. My focus when developing a project is to make it as user friendly as possible no matter what device it is being viewed on. My attention to detail when creating training documents will allow clients to update their website with ease.
 
 ### Skills
 
