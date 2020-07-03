@@ -19,14 +19,13 @@
 			max-width: 20ex;
 		}
 
-		p {
-			img {
-				position: absolute;
-				bottom: -8rem;
-				right: 0;
-				width: 50%;
-			}
+		>img {
+			position: absolute;
+			bottom: -8rem;
+			right: 0;
+			width: 50%;
 		}
+
 	}
 
 	&__heading {
