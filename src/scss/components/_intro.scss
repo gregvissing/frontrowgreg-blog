@@ -13,10 +13,16 @@
 				text-decoration: none;
 			}
 		}
+
+		h3,
+		p:first-child {
+			max-width: 45ex;
+		}
+
 		p {
 			img {
 				position: absolute;
-				bottom: -4rem;
+				bottom: -8rem;
 				right: 0;
 				width: 50%;
 			}
