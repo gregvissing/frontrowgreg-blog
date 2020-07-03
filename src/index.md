@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Front Row Greg
+title: Front-End Developer & UI Designer Passionate about Creating Inclusive Web
+  Experiences.
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts
