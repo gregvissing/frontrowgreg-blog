@@ -2,7 +2,10 @@
   <div class="[ inner-wrapper ] [ sf-flow ]">
     <h1 class="[ intro__heading{{ ' intro__heading--compact' if page.url === '/' }} ] [ text-800 md:text-900 leading-tight ] [ p-name ]">{{ introHeading }}</h1>
     {% if introSummary %}
-      <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">{{ introSummary | safe }}</div>
+      <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">
+	  	{{ introSummary | safe }}
+	  	<img src="/images/avatar-no-bg.svg" alt="Front Row Greg avatar" loading="lazy" width="559" height="559">
+	  </div>
     {% endif %}
   </div>
 </header>
