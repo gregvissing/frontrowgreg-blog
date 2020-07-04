@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Preparing For A Lightning Talk
 date: 2020-10-25T06:25:25.537Z
 tags:
-  - tech talk
+  - talks
 ---
 This post is about a running list of ways to prepare for a Lightning talk
 
