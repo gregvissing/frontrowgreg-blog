@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What is Web Accessibility
 date: 2020-07-02T06:39:57.339Z
 tags:
-  - Web Accessibility; A11Y
+  - accessibility
 ---
 I’m pleased to welcome you to my first blog post on Web Accessibility. If you’ve never heard of it, I hope that this website will serve as a resource to keep you up-to-date on what it is and why it’s needed.
 
