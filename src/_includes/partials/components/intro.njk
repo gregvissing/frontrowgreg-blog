@@ -440,16 +440,24 @@
 			</div>
 
 			<script>
-				let master = gsap.timeline();
+				var tl = gsap.timeline({ defaults: { ease: "back" } });
 
 				function init() {
-					gsap.set("#avatar", {right: "-100%"});
-					gsap.to("#avatar", {
+					tl.set("#avatar", {right: "-100%"})
+					.to("#avatar", {
 						duration: 1,
 						right: "0%",
 						ease: "back(1)"
+					})
+					.from(".leftArm", {
+						rotate: -25,
+						transformOrigin: "100% 50%",
+						yoyo: true,
+						repeat: 2,
+						ease: Power1.easeInOut
 					});
 				}
+
 				init();
 			</script>
 		{% endif %}
