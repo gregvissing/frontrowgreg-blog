@@ -48,6 +48,8 @@ class ThemeToggle extends HTMLElement {
 				currentSetting = 'dark';
 				break;
 			case 'dark':
+				// document.querySelector(".cls-7").fillC
+				document.getElementById("avatar").classList.toggle("light");
 				currentSetting = 'light';
 				break;
 		}

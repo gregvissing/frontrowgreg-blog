@@ -30,8 +30,17 @@
             }
 
             .cls-7 {
-                fill: #094166;
+                fill: #F8E9A1;
+				 <!-- #094166; -->
             }
+
+			.light .cls-7 {
+				fill: #094166;
+			}
+
+			.light .cls-7 {
+					fill: #374785;
+			}
 
             .cls-8 {
                 fill: #081e25;
