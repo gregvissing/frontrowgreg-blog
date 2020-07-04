@@ -1,21 +1,21 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "home",
       "url": "/",
       "external": false
     },
     {
-      "text": "Resources",
+      "text": "resources",
       "url": "/resources"
     },
     {
-      "text": "Contact",
+      "text": "contact",
       "url": "/contact",
       "external": false
     },
     {
-      "text": "About Me",
+      "text": "about",
       "url": "/about"
     }
   ]
