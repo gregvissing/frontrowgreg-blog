@@ -29,7 +29,7 @@
 	img.avatar {
 		position: absolute;
 		bottom: -2.35rem;
-		right: 0%;
+		right: -100%;
 		width: 350px;
 	}
 
@@ -46,7 +46,7 @@
 				position: relative;
 				display: inline;
 				color: #fff;
-				font-size: 90%;
+				// font-size: 75%;
 			}
 		}
 	}
