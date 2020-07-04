@@ -1,52 +1,53 @@
 .intro {
-  background: var(--color-theme-highlight-block);
-  position: relative;
+	background: var(--color-theme-highlight-block);
+	position: relative;
 
-  &__summary {
-    position: relative;
-    --flow-space: #{get-size(500)};
-    font-size: get-size(500);
+	&__summary {
+		position: relative;
+		--flow-space: #{get-size(500)};
+		font-size: get-size(500);
 
-    a {
-      color: currentColor;
+		a {
+			color: currentColor;
 
-      &:hover {
-        text-decoration: none;
-      }
-    }
+			&:hover {
+				text-decoration: none;
+			}
+		}
 
-    h3 {
-      //   max-width: 40ex;
-    }
+		h3 {
+			//   max-width: 40ex;
+		}
 
-    p,
-    h3 {
-      max-width: 90%;
-      //   max-width: 55ex;
-    }
-  }
+		p,
+		h3 {
+			max-width: 90%;
+			//   max-width: 55ex;
+		}
+	}
 
-  img.avatar {
-    position: absolute;
-    bottom: -2.35rem;
-    right: 0%;
-    width: 350px;
-  }
+	img.avatar {
+		position: absolute;
+		bottom: -2.35rem;
+		right: 0%;
+		width: 350px;
+	}
 
-  &__heading {
-    max-width: 40ex;
-    color: var(--color-theme-feature-text);
+	&__heading {
+		max-width: 40ex;
+		color: var(--color-theme-feature-text);
 
-    &--compact {
-      max-width: 100%;
-      // max-width: 20ex;
-      &:after {
-        content: ' Passionate about Creating Inclusive Web Experiences';
-        position: relative;
-        display: inline;
-        color: #fff;
-        font-size: 90%;
-      }
-    }
-  }
+		&--compact {
+			max-width: 100%;
+
+			// max-width: 20ex;
+			&:after {
+				content: ' Passionate about Creating Inclusive Web Experiences';
+				position: relative;
+				display: inline;
+				color: #fff;
+				font-size: 90%;
+			}
+		}
+	}
 }
