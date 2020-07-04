@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Developing a Donation Form for the UC Foundation that converts
 date: 2020-10-25T06:54:11.114Z
 tags:
-  - Donation Form; UX
+  - forms
 ---
 Developing a Donation Form for the UC Foundation that converts donations requires careful research and planning from start to finish. Everyone involved in the project needs to know their role, which includes, their responsibilities, due dates and how their part impacts the success of the project.
 
