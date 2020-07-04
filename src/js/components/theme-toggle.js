@@ -45,11 +45,11 @@ class ThemeToggle extends HTMLElement {
 					this.getCSSCustomProp(this.COLOR_MODE_KEY) === 'dark' ? 'light' : 'dark';
 				break;
 			case 'light':
-				document.getElementById("avatar").classList.toggle("light");
+				document.getElementById("avatar").classList.remove("light");
 				currentSetting = 'dark';
 				break;
 			case 'dark':
-				document.getElementById("avatar").classList.toggle("light");
+				document.getElementById("avatar").classList.add("light");
 				currentSetting = 'light';
 				break;
 		}
