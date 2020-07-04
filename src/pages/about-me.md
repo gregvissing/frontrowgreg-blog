@@ -21,9 +21,7 @@ My name is Greg from Cincinnati, OH. I'm currently a Web Developer & UI Designer
 10. Foundation
 11. LESS/SASS
 
-### Work
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci eligendi impedit inventore ipsa laboriosam libero magnam modi odio, sunt temporibus. Distinctio doloremque eum magni nostrum quasi ratione rem repudiandae sit!
 
 ### Job History
 
