@@ -15,14 +15,17 @@
 			}
 		}
 
-		h3 {
+		//h3 {
 			//   max-width: 40ex;
-		}
+		//}
 
-		p,
 		h3 {
 			max-width: 90%;
 			//   max-width: 55ex;
+		}
+
+		p {
+			max-width: 75%;
 		}
 	}
 
@@ -30,7 +33,7 @@
 		position: absolute;
 		bottom: -2.35rem;
 		right: 0%;
-		width: 350px;
+		width: 40%;
 	}
 
 	&__heading {
@@ -45,7 +48,7 @@
 				content: ' Passionate about Creating Inclusive Web Experiences';
 				position: relative;
 				display: inline;
-				color: #fff;
+				color: #A8D0E6;
 				// font-size: 75%;
 			}
 		}
