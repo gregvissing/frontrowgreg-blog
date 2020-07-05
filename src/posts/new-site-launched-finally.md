@@ -1,0 +1,12 @@
+---
+layout: layouts/post.njk
+title: New site launched...finally
+date: 2020-07-05T19:57:59.956Z
+tags:
+  - website
+  - skills
+  - learning
+---
+This post feels good to finally write after the struggle I had with deciding how I wanted the site to look and what kind of content I wanted to have on it. Questions such as: which language to use?, which framework or boilerplate would be best for me? Should I make it topic specific? The list went on an on. 
+
+After seeing [Cassie Evans](https://www.cassie.codes/) Tweet that she was launching her new site I had to see what she was using and I'm so glad I did. Reading through her post about [website decisions](https://www.cassie.codes/posts/shoes-at-last/), I'm glad I wasn't the only one over-thinking this whole process. I deployed the [Hylia starter kit](https://github.com/hankchizljaw/hylia) she mentioned and have been sold ever since! Hylia is an amazing blend of the [Eleventy](https://www.11ty.dev/) static site generator and [Netlify CMS](https://www.netlifycms.org/) to get even non-developers started on their website journey!
