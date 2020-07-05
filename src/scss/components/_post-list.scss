@@ -1,17 +1,19 @@
 .post-list {
-  &__item {
-    --flow-space: #{get-size(700)};
-  }
+	&__item {
+		--flow-space: #{get-size(700)};
+	}
 
-  &__link {
-    &,
-    &:visited {
-      color: var(--color-theme-primary);
-      text-decoration: none;
-    }
+	&__link {
+		@include transition(all 0.4s ease-in-out);
 
-    &:hover {
-      text-decoration: underline;
-    }
-  }
+		&,
+		&:visited {
+			color: var(--color-theme-primary);
+			text-decoration: underline;
+		}
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
 }
