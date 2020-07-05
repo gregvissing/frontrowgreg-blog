@@ -53,13 +53,13 @@
 			}
 		}
 	}
+}
 
-	&.light {
-		&__heading {
-			&--compact {
-				&:after {
-					color: var(--color-theme-primary) !important;
-				}
+.light {
+	&__heading {
+		&--compact {
+			&:after {
+				color: var(--color-theme-primary) !important;
 			}
 		}
 	}
