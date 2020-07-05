@@ -13,10 +13,10 @@ After seeing [Cassie Evans](https://www.cassie.codes/) Tweet that she was launch
 
 The topics I'm hoping to post about on this website are as follows:
 
-* Web Accessibility
-* Semantic HTML5
-* Design Systems
-* Animation using [Greensock](https://greensock.com/) library
-* Web Form Design/User Experience 
-* Blackbaud Internet Services
-*
+* **Web Accessibility:** Front-End best practices; Laws; Troubleshooting; Influencers to follow
+* **Semantic HTML5:** Basics; Layouts; Troubleshooting; Influencers to follow
+* **Design Systems/Styling:** Pattern Lab; Pre-Processors; Troubleshooting; Influencers to follow
+* **Animation:** Animation principles; [Greensock](https://greensock.com/) basics; Troubleshooting; Influencers to follow
+* **Web Form Design/User Experience:** Form design principles; Field control concerns; Influencers to follow
+* Blackbaud Internet Services: What is it; How I use it; Code examples; Troubleshooting
+* Other topics TBD
