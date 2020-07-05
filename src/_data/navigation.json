@@ -10,11 +10,6 @@
       "url": "/resources"
     },
     {
-      "text": "contact",
-      "url": "/contact",
-      "external": false
-    },
-    {
       "text": "about",
       "url": "/about"
     }
