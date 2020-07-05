@@ -18,5 +18,8 @@ The topics I'm hoping to post about on this website are as follows:
 * **Design Systems/Styling:** Pattern Lab; Pre-Processors; Troubleshooting; Influencers to follow
 * **Animation:** Animation principles; [Greensock](https://greensock.com/) basics; Troubleshooting; Influencers to follow
 * **Web Form Design/User Experience:** Form design principles; Field control concerns; Influencers to follow
-* Blackbaud Internet Services: What is it; How I use it; Code examples; Troubleshooting
+* **Blackbaud Internet Services:** What is it; How I use it; Code examples; Troubleshooting
+* **Bookmarks for Days:** Books/Resources/Courses I recommend
 * Other topics TBD
+
+I hope you enjoy my
