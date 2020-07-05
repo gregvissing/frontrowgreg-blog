@@ -25,7 +25,7 @@ The topics I'm hoping to post about:
 * **Animation:** Animation principles; [Greensock](https://greensock.com/) basics; Influencers to follow
 * **Web Form Design/User Experience:** Form design principles; Field control concerns; Influencers to follow
 * **Blackbaud Internet Services:** What is it; How I use it; Code examples;
-* **Bookmarks for Days:** Books/Resources/Courses I recommend
+* **Bookmarks for Days:** Books/Resources/Courses/Conferences I recommend
 * **Troubleshooting:** Solutions to topics above that I've come across that may help you too!
 * Other topics **TBD**
 
