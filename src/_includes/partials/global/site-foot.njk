@@ -24,14 +24,14 @@
 </footer>
 
 <script>
-	var tl = gsap.timeline({
+	var tlFooter = gsap.timeline({
 		defaults: {
 			ease: "back"
 		}
 	});
 
 	function tweet() {
-		tl
+		tlFooter
 			.from(".leftArm", {rotate: -25})
 			.to(".leftArm", {
 				rotate: -25,
@@ -43,7 +43,7 @@
 	}
 
 	function linkedIn() {
-		tl
+		tlFooter
 			.from(".rightArm", {rotate: 0})
 			.to(".rightArm", {
 				rotate: 25,
