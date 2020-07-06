@@ -47,11 +47,15 @@ class ThemeToggle extends HTMLElement {
 			case 'light':
 				document.getElementById("avatar").classList.remove("light");
 				document.querySelector("body").classList.remove("light");
+				document.querySelector("header .nav").classList.remove("light");
+				document.querySelector("footer .nav").classList.remove("light");
 				currentSetting = 'dark';
 				break;
 			case 'dark':
 				document.getElementById("avatar").classList.add("light");
 				document.querySelector("body").classList.add("light");
+				document.querySelector("header .nav").classList.add("light");
+				document.querySelector("footer .nav").classList.add("light");
 				currentSetting = 'light';
 				break;
 		}
