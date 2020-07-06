@@ -88,23 +88,50 @@ legend {
 }
 
 .social-icons {
+	display: block;
+	justify-content: center;
+	height: 250px;
+	position: relative;
+
 	a {
 		font-size: 0;
 		color: var(--color-highlight);
 		transition: color .2s ease-out;
 		display: inline-block;
 
+		position: relative;
+		min-width: 2.5rem;
+		min-height: 2.5rem;
+		padding: .5rem;
+		box-sizing: border-box;
+		background-color: var(--demo-bg);
+		border: 1px solid var(--demo-border);
+
+		position: absolute;
+		top: 0;
+		margin: auto;
+
 		svg {
-			height: 1.2rem;
+			height: 2rem;
+		}
+
+		&:first-child {
+			left: 0;
+		}
+
+		&:last-child {
+			right: 0;
 		}
 	}
 
-	p {
-		margin-left: 1em;
-		display: inline-block;
-	}
-}
+	// p {
+	// 	margin-left: 1em;
+	// 	display: inline-block;
+	// }
 
-#avatar.contact {
-	width: 30%;
+	#avatar.contact {
+		width: 30%;
+		margin: 0 auto;
+		display: block;
+	}
 }
