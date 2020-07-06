@@ -24,6 +24,7 @@
 		a {
 			color: currentColor;
 			text-transform: capitalize;
+			@include transition (all, 0.4s, ease-in-out);
 			@include apply-utility('weight', 'mid');
 
 			&:not(:hover) {

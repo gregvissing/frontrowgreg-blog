@@ -1,43 +1,15 @@
-// Usage:   @include transition(width, height 0.3s ease-in-out);
-// Output:  -webkit-transition(width 0.2s, height 0.3s ease-in-out);
-//          transition(width 0.2s, height 0.3s ease-in-out);
-//
-// Pass in any number of transitions
-@mixin transition($transitions...) {
-	$unfoldedTransitions: ();
+/**
+ * TRANSITION MIXIN
+ * 
+ * Usage: @include transition(all, 0.4s, ease-out);
+ * reference: https: //responsivedesign.is/articles/helpful-sass-mixins/
+ */
 
-	@each $transition in $transitions {
-		$unfoldedTransitions: append($unfoldedTransitions, unfoldTransition($transition), comma);
-	}
-
-	-webkit-transition: $unfoldedTransitions;
-	transition: $unfoldedTransitions;
-}
-
-@function unfoldTransition ($transition) {
-	// Default values
-	$property: all;
-	$duration: .2s;
-	$easing: null; // Browser default is ease, which is what we want
-	$delay: null; // Browser default is 0, which is what we want
-	$defaultProperties: ($property, $duration, $easing, $delay);
-
-	// Grab transition properties if they exist
-	$unfoldedTransition: ();
-
-	@for $i from 1 through length($defaultProperties) {
-		$p: null;
-
-		@if $i <=length($transition) {
-			$p: nth($transition, $i)
-		}
-
-		@else {
-			$p: nth($defaultProperties, $i)
-		}
-
-		$unfoldedTransition: append($unfoldedTransition, $p);
-	}
-
-	@return $unfoldedTransition;
+/* @include transition(all,2s,ease-out); */
+@mixin transition($what: all, $time: 0.2s, $how: ease-in-out) {
+	-webkit-transition: $what $time $how;
+	-moz-transition: $what $time $how;
+	-ms-transition: $what $time $how;
+	-o-transition: $what $time $how;
+	transition: $what $time $how;
 }

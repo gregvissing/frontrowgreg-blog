@@ -91,6 +91,7 @@ legend {
 	display: flex;
 	justify-content: center;
 	height: 250px;
+
 	position: relative;
 
 	a {
@@ -106,32 +107,31 @@ legend {
 		box-sizing: border-box;
 		background-color: var(--demo-bg);
 		border: 1px solid var(--demo-border);
-
-		// position: absolute;
-		top: 0;
 		margin: auto;
 
 		svg {
 			height: 2rem;
 		}
 
-		// &:first-child {
-		// 	left: 0;
-		// }
+		&:first-child {
+			margin-right: 0;
+		}
 
-		// &:last-child {
-		// 	right: 0;
-		// }
+		&:last-child {
+			margin-left: 0;
+		}
 	}
 
-	// p {
-	// 	margin-left: 1em;
-	// 	display: inline-block;
-	// }
-
 	#avatar.contact {
-		width: 30%;
-		margin: 0 auto;
-		display: block;
+		width: 250px;
+		margin: 0;
+	}
+}
+
+.light {
+	.social-icons {
+		>a {
+			color: var(--color-primary);
+		}
 	}
 }

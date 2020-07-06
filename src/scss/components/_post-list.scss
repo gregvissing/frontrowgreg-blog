@@ -4,7 +4,7 @@
 	}
 
 	&__link {
-		@include transition(all 0.4s ease-in-out);
+		@include transition (all, 0.4s, ease-in-out);
 
 		&,
 		&:visited {
