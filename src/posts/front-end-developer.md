@@ -515,72 +515,29 @@ Let's take a look at this in action.
 
 The `grid-area` CSS property is a shorthand property for `grid-row-start`,`grid-column-start`, `grid-row-end`and `grid-column-end`, and it defines the area that an element occupies in a grid.
 
-* [/](<>)>
-* [home](<>)>
-* workspace
-
-
-
-1
-
-```
-
-```
-
-2
-
-```
-
-```
-
-3
-
-```
-
-```
-
-4
-
-```
-
-```
-
-5
-
-```
-
-```
-
-6
-
-```
-
-```
-
-7
-
-```
-
-```
-
-Menu
-
-*full screen*
-
-Expand
-
-### Grid Areas Summary
+**Grid Areas Summary**
 
 `grid-template-areas` is the property used to name the rows and columns of a grid and to set its layout. It could look like this:
 
 ```
+  .container {
+      display:grid;
+      grid-template-columns: 300px 300px 300px;
+      grid-template-rows: 250px 600px;
+      grid-template-areas: 
+      "hd hd hd hd hd hd hd hd"
+      "sd sd sd main main main main main"
+      "ft ft ft ft ft ft ft ft";
+  }
 
 ```
 
 The named areas in the grid are then assigned to each element according to where you want them to be displayed in the grid:
 
 ```
-
+.header {
+  grid-area: hd;
+}
 ```
 
 In the example above the element with the class `header` will stretch across the entire first row of columns because we have assigned it the `grid-area` `hd`, and we have defined the area `hd` with the value for `grid-template-areas` in the parent element.
