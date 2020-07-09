@@ -393,3 +393,62 @@ To justify content on the main axis use `justify-content`, which has the possibl
 * space-around
 * space-between
 * space-evenly
+
+# Aligning & Justifying in Action
+
+Aligning, justifying, and distributing is what flexbox is all about. Up next, we will focus in on two of the most powerful properties that flex introduces to achieve such easy and elegant layouts.
+
+By setting different values for the properties `align-items` and `justify-content` you can easily create elegant distribution of elements across the available space.
+
+### Further Research
+
+For further research on the topics covered in this section, see this MDN article [Alignment, justification and distribution of free space between items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox#Alignment_justification_and_distribution_of_free_space_between_items).
+
+Reading the documentation will make you smarter and enjoy coding more!
+
+# Grid vs Flexbox
+
+Flexbox is for how content flows, Grid is for how content is placed - i.e. grid works nicely for page layouts, flex works nicely for regions within the grid.
+
+# An Example of Grid vs Flexbox
+
+An excellent way to use flexbox and grid together is by creating the layout of a webpage with grid and then organizing the flow of the content with flex. Let's see an example of this!
+
+To use CSS Grid set the `display` property of the container element to `grid`.
+
+![Flexbox can work within Grid](https://video.udacity-data.com/topher/2019/August/5d4dbc95_gridvflex/gridvflex.png)Flexbox can work within Grid
+
+
+
+
+
+### Recap
+
+CSS Grid v. Flexbox
+
+* Grid is two dimensional, while Flex is one
+* Grid is layout first, while Flexbox is content first
+* Flex is for components of an app, Grid is for the app layout itself
+
+CSS Grid does not replace Flexbox. Each can achieve things that the other is not capable of, and in fact, a true master can use Flexbox and CSS Grid together in harmony to create the ultimate webpage layout.
+
+At the highest level CSS Grid excels at creating layouts for a webpage, while Flexbox is a master of content flow for each element that makes up the page layout.
+
+### Further Research
+
+For more information on CSS Grid and Flexbox together see the articles below:
+
+* [Beginner’s Guide to choosing between CSS Grid and Flexbox](https://medium.com/youstart-labs/beginners-guide-to-choose-between-css-grid-and-flexbox-783005dd2412)
+* [The Ultimate CSS Battle: Grid vs. Flexbox](https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf)
+* [Does CSS Grid Replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
+
+
+
+# Rows & Columns
+
+After setting the display property of your container div to grid, the next step is to set the rows and columns in your grid which can be done with the CSS properties:
+
+* `grid-template-columns`
+* `grid-template-rows`
+
+And to define gutters between rows and columns you can use the property `grid-gap` on the parent container that has the `display` property set to `grid`.
