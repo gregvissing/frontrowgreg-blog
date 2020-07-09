@@ -120,8 +120,6 @@ selector:pseudo-class {
 
 For more information on pseudo-classes, [see the Mozilla Dev Docs here.](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-
-
 ### Attributes
 
 Attribute selectors are a special kind of selector that will match elements based on their attributes and attribute values.
@@ -184,8 +182,6 @@ h6 {
 
 This defines the font to use for all of our headings with a single rule. That’s great, because if we ever want to change it, we only have to do so in one place. Copying and pasting code is usually a bad idea for web developers, and multiple selectors can help reduce that kind of behavior quite a bit.
 
-
-
 # Linking CSS
 
 ### Inline
@@ -228,4 +224,74 @@ So you’ve just learned that using the `<link>` element allows you to link HTML
 @import “./blog-cards”;
 ```
 
-![Relationship between HTML and CSS files](https://video.udacity-data.com/topher/2019/August/5d4b36a9_css-file-relationship/css-file-relationship.png)
+
+
+# Specificity
+
+Because elements can have multiple CSS selectors, there is a hierarchy for the weight given to each type of selector. Here is the logical order of selectors from least to most weight assigned:
+
+* Type selectors (e.g., h1) and pseudo-elements (e.g., `::before`).
+* Class selectors (e.g., `.example)`, attributes selectors (e.g., `[type="radio"]`) and pseudo-classes (e.g., `:hover`).
+* ID selectors (e.g., `#example`).
+
+This concept can help you understand why your styles aren't being applied in the way you expect.
+
+There is a way to escape or override the specificity evaluation of elements using the `!important` keyword after an individual CSS property rule, but a couple important reminders:
+
+Always look for a way to use specificity before even considering `!important`. Never use `!important` on site-wide CSS.
+
+
+
+# The Box Model
+
+Just like CSS, HTML and JS are the three basic building blocks of the web, the box model is one of the basic building blocks for CSS.
+
+Now, let’s see what the mysterious box model is all about.
+
+### Content
+
+First, we have the content of the box itself, which has a height and width.
+
+![The content box has a height and width.](https://video.udacity-data.com/topher/2019/August/5d4b384e_css-content/css-content.png)
+
+The content box has a height and width.
+
+### Padding
+
+Next is padding - the space between the box’s content and its border. Note that padding is *in addition* to the content’s height and width, and is considered to be inside the element itself.
+
+![Padding extends outside the content box.](https://video.udacity-data.com/topher/2019/August/5d4b38ee_css-padding/css-padding.png)
+
+Padding extends outside the content box.
+
+### Border
+
+Continuing our journey outward from the center of the CSS box model, we have the border: a line drawn around the content and padding of an element. The border property requires a new syntax that we’ve never seen before. First, we define the stroke width of the border, then its style, followed by its color.
+
+This tells the browser to draw a thin gray line around our heading. Notice how the border bumps right up next to the padding with no space in between. And, if you shrink your browser enough for the heading to be split over two lines, both the padding and the border will still be there.
+
+Drawing a border around our entire heading makes it look a little 1990s, so how about we limit it to the bottom of the heading? Like padding, there are `-top`, `-bottom`, `-left`, and `-right` variants for the border property:
+
+`border-bottom: 1px solid #5D6063;`
+
+Borders are common design elements, but they’re also invaluable for debugging. When you’re not sure how a box is being rendered, add a border: 1px solid red; declaration to it. This will clearly show the box’s padding, margin, and overall dimensions with just a single line of CSS. After you figured out why your stuff is broken, simply delete the rule.
+
+If you've ever used a table in a word processor or spreadsheet, then you should be familiar with borders. With CSS, you can add a border to just about anything.
+
+![The border is the line between the box’s padding and margin.](https://video.udacity-data.com/topher/2019/August/5d4b3919_css-border/css-border.png)
+
+The border is the line between the box’s padding and margin.
+
+### Margin
+
+Last is the margin, which surrounds the rest of the box. It is the space between the box and surrounding boxes.
+
+![The margin surrounds the rest of the box, and separates it from other boxes.](https://video.udacity-data.com/topher/2019/August/5d4b3937_css-margin/css-margin.png)
+
+The margin surrounds the rest of the box, and separates it from other boxes.
+
+## Additional Topics on CSS
+
+For more information on CSS background images, see the [MDN documentation here](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image).
+
+For more information on CSS in general, you can see the excellent website [CSS-Tricks](https://css-tricks.com/).
