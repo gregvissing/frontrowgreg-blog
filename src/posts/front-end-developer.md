@@ -183,3 +183,49 @@ h6 {
 ```
 
 This defines the font to use for all of our headings with a single rule. That’s great, because if we ever want to change it, we only have to do so in one place. Copying and pasting code is usually a bad idea for web developers, and multiple selectors can help reduce that kind of behavior quite a bit.
+
+
+
+# Linking CSS
+
+### Inline
+
+Although CSS is a different language than HTML, it’s possible to write CSS code directly within HTML code using inline styles.
+
+To style an HTML element, you can add the style attribute directly to the opening tag. After you add the attribute, you can set it equal to the CSS style(s) you’d like applied to that element.
+
+```
+<p style="color: red;">I'm learning to code!</p>
+```
+
+### External Stylesheets
+
+You can use the `<link>` element to link HTML and CSS files together. The `<link>` element must be placed within the head of the HTML file. It is a self-closing tag and requires the following three attributes:
+
+* `href` — like the anchor element, the value of this attribute must be the address, or path, to the CSS file.
+* `type` — this attribute describes the type of document that you are linking to (in this case, a CSS file). The value of this attribute should be set to text/css.
+* `rel` — this attribute describes the relationship between the HTML file and the CSS file.
+
+When linking an HTML file and a CSS file together, the `<link>` element will look like the following:
+
+```
+<link href="https://udacity.com/style.css" type="text/css" rel="stylesheet" />
+```
+
+Using a relative path is very common way of linking a stylesheet.
+
+```
+<link rel="stylesheet" href="styles.css" />
+```
+
+So you’ve just learned that using the `<link>` element allows you to link HTML and CSS files together. What about linking a CSS file to another CSS file? You can have all your styles living inside one main CSS file, or you can use `@import` to break your styles (one for layout, one for images, one for blog cards, etc.) into a number of smaller, focused files. This makes it a lot easier to manage the styles they contain and your code is more scalable and modular!
+
+```
+// at the top of your main CSS file
+
+@import “./layout”;
+@import “./images”;
+@import “./blog-cards”;
+```
+
+![Relationship between HTML and CSS files](https://video.udacity-data.com/topher/2019/August/5d4b36a9_css-file-relationship/css-file-relationship.png)
