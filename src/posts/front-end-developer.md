@@ -119,3 +119,67 @@ selector:pseudo-class {
 ```
 
 For more information on pseudo-classes, [see the Mozilla Dev Docs here.](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+
+
+### Attributes
+
+Attribute selectors are a special kind of selector that will match elements based on their attributes and attribute values.
+
+Their generic syntax consists of square brackets (`[]`) containing an attribute name followed by an optional condition to match against the value of the attribute.
+
+Attribute selectors can be divided into two categories depending on the way they match attribute values:
+
+1. Presence and value attribute selectors and
+2. Substring value attribute selectors.
+
+These attribute selectors try to match an exact attribute value:
+
+* `[attr]` This selector will select all elements with the attribute attr, whatever its value.
+* `[attr=val]` This selector will select all elements with the attribute attr, but only if its value is val.
+* `[attr~=val]` This selector will select all elements with the attribute attr, but only if val is one of a space-separated list of words contained in attr's value. (This one is a bit more complex, so checking some [documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) might be helpful.)
+
+### Multiple Selectors
+
+What if we want to add some styles to all our headings? We don’t want to have redundant rules, since that would eventually become a nightmare to maintain and is not scalable at all.
+
+```
+h1 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h2 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h3 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h4 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h5 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+```
+
+Instead, we can select multiple HTML elements in the same CSS rule by separating them with commas. Add this to our styles.css file:
+
+```
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+```
+
+This defines the font to use for all of our headings with a single rule. That’s great, because if we ever want to change it, we only have to do so in one place. Copying and pasting code is usually a bad idea for web developers, and multiple selectors can help reduce that kind of behavior quite a bit.
