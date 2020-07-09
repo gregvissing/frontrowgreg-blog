@@ -473,3 +473,114 @@ grid-template-rows: 160px 60px;
 would create a grid with two columns and two rows.
 
 The layout of a grid is defined using `grid-template-columns` and `grid-template-rows`.
+
+A CSS Grid is made up of rows and columns which are defined using the CSS properties `grid-template-columns` and `grid-template-rows`, which take as values the size of each track.
+
+### Further Research
+
+To explore grid setup deeper, you can check out this cool [grid visualizer and generator](https://cssgrid-generator.netlify.com/).
+
+
+
+# Grid Areas
+
+[YouTube video player](https://www.youtube.com/embed/gXRvG4nPLfM?showinfo=0&rel=0&autohide=1&vq=hd720&hl=en-us&cc_load_policy=0&enablejsapi=1&origin=https%3A%2F%2Fclassroom.udacity.com&widgetid=49)
+
+The `grid-area` property specifies a particular area or set of rows and columns that a grid item occupies. It is applied to the grid item itself with CSS. Here is an example:
+
+```
+.item{
+  grid-area: 1/2/3/3
+}
+```
+
+Because`grid-area` is shorthand for the properties: `grid-row-start`, `grid-column-start`, `grid-row-end` and `grid-column-end`, the code above places the item from rows 1-3, and columns 2-3.
+
+# Working with Grid Areas
+
+The `grid-area` property defines the space an element takes up in the grid by setting values for the row it starts and ends in, and the column it starts and ends in. In practice it could look like this:
+
+```
+ #one { 
+    /* row start/column start/ row end/ column end */
+    grid-area: 1/2/3/3;
+ }
+```
+
+In this example the element with the `id`, `one` would start at the first row and the first column, and end at the third row (which is the end of the second row if there is no third row) and the third column.
+
+Let's take a look at this in action.
+
+[YouTube video player](https://www.youtube.com/embed/vYnJd53LQB0?showinfo=0&rel=0&autohide=1&vq=hd720&hl=en-us&cc_load_policy=0&enablejsapi=1&origin=https%3A%2F%2Fclassroom.udacity.com&widgetid=51)
+
+The `grid-area` CSS property is a shorthand property for `grid-row-start`,`grid-column-start`, `grid-row-end`and `grid-column-end`, and it defines the area that an element occupies in a grid.
+
+* [/](<>)>
+* [home](<>)>
+* workspace
+
+
+
+1
+
+```
+
+```
+
+2
+
+```
+
+```
+
+3
+
+```
+
+```
+
+4
+
+```
+
+```
+
+5
+
+```
+
+```
+
+6
+
+```
+
+```
+
+7
+
+```
+
+```
+
+Menu
+
+*full screen*
+
+Expand
+
+### Grid Areas Summary
+
+`grid-template-areas` is the property used to name the rows and columns of a grid and to set its layout. It could look like this:
+
+```
+
+```
+
+The named areas in the grid are then assigned to each element according to where you want them to be displayed in the grid:
+
+```
+
+```
+
+In the example above the element with the class `header` will stretch across the entire first row of columns because we have assigned it the `grid-area` `hd`, and we have defined the area `hd` with the value for `grid-template-areas` in the parent element.
