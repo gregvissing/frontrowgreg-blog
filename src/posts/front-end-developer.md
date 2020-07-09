@@ -471,3 +471,5 @@ grid-template-rows: 160px 60px;
 ```
 
 would create a grid with two columns and two rows.
+
+The layout of a grid is defined using `grid-template-columns` and `grid-template-rows`.
