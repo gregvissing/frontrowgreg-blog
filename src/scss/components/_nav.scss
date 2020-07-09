@@ -38,10 +38,10 @@
 	}
 }
 
-.nav:not(.light) .nav__item a[aria-current="page"] {
-    color: var(--color-highlight);
+.nav:not(.light) .nav__item a[aria-current='page'] {
+	color: var(--color-highlight);
 }
 
-.nav.light .nav__item a[aria-current="page"] {
-    color: dodgerBlue;
+.nav.light .nav__item a[aria-current='page'] {
+	color: dodgerBlue;
 }
