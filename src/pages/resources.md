@@ -125,3 +125,33 @@ permalink: /resources/index.html
   * [Kristina Podnar - Privacy policy](https://docs.google.com/document/d/1lLZWnkZPWn8HVjR3nkH1lv2AHscaHjntjbeKPrKtp-M/edit?usp=sharing)
   * [Kristina Podnar - Privacy statement](https://docs.google.com/document/d/1ZeHNfqBDOXd7ZmTKIG9UFVukH75AJqZyAsEyM5QQ7dM/edit)
   * [Kristina Podnar - Accessibility policy we developed for Greg V](https://docs.google.com/document/d/12bQ7zFqiS5KLnDSC4nQU60JoL0CJarujsDUtlEB_KXI/edit?usp=sharing)
+
+<details>
+  <summary>Animation</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+<details>
+  <summary>Design</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+<details>
+  <summary>Development</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
