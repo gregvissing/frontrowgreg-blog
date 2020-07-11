@@ -12,12 +12,13 @@ permalink: /resources/index.html
 <details>
   <summary>Accessibility</summary>
   
-\* \*\*Standards\**
 
-* [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
-* [Standards for Writing Accessibly](https://alistapart.com/article/standards-for-writing-accessibly/)
-* [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+* **Standard**
+
+  * [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
+  * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+  * [Standards for Writing Accessibly](https://alistapart.com/article/standards-for-writing-accessibly/)
+  * [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 * **Navigation**
 
   * [Accessible Mobile Navigation](https://www.a11ymatters.com/pattern/mobile-nav/)
@@ -132,8 +133,8 @@ permalink: /resources/index.html
   ## Heading
   1. A numbered
   2. list
-     \* With some
-     \* Sub bullets
+     \\\* With some
+     \\\* Sub bullets
 </details>
 
 <details>
@@ -142,8 +143,8 @@ permalink: /resources/index.html
   ## Heading
   1. A numbered
   2. list
-     \* With some
-     \* Sub bullets
+     \\\* With some
+     \\\* Sub bullets
 </details>
 
 <details>
@@ -152,6 +153,6 @@ permalink: /resources/index.html
   ## Heading
   1. A numbered
   2. list
-     \* With some
-     \* Sub bullets
+     \\\* With some
+     \\\* Sub bullets
 </details>
