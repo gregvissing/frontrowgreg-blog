@@ -1,8 +1,12 @@
 details {
+	border: 1px solid #fff;
+
 	summary {
 		font-weight: bold;
-		margin-bottom: 0.5em;
+		border: 1px solid #fff;
+		padding: 5px;
 	}
+
 	margin-bottom: 1em;
 }
 
@@ -13,8 +17,8 @@ details {
 		/**
      * Generic HTML styles 
      */
-		h2 + *,
-		h3 + * {
+		h2+*,
+		h3+* {
 			--flow-space: #{get-size(500)};
 		}
 
@@ -50,7 +54,7 @@ details {
 			margin-right: 0.01ch;
 		}
 
-		pre > code {
+		pre>code {
 			margin-right: 0;
 			border: 1px solid rgba(255, 255, 255, 0.1);
 			overflow-x: auto;
@@ -74,35 +78,35 @@ details {
 		ul:not([class]) {
 			margin-left: get-size(800);
 
-			li + li {
+			li+li {
 				margin-top: get-size(300);
 			}
 		}
 
 		figure,
-		figure + *,
-		pre > code,
+		figure+*,
+		pre>code,
 		.video-player,
-		.video-player + *,
+		.video-player+*,
 		video {
 			--flow-space: #{get-size("max")};
 		}
 
 		figure,
-		pre > code,
+		pre>code,
 		.video-player,
 		video {
 			width: 100vw;
 			max-width: map-get($metrics, "wrap-max-width");
-			margin-left: 50%; /*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
-			transform: translateX(
-				-50%
-			); /* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
+			margin-left: 50%;
+			/*changing this value to 47% removes the horizontal scrollbar once the viewport is < 930px */
+			transform: translateX(-50%);
+			/* changing this value to 49% allows for the suggestion above to also eliminate the horizontal scroll. */
 			position: relative;
 		}
 
 		figure img,
-		pre > code,
+		pre>code,
 		.video-player {
 			box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 		}
@@ -120,7 +124,7 @@ details {
 			padding: 0 get-size(500);
 		}
 
-		pre > code {
+		pre>code {
 			display: block;
 			background: var(--color-dark);
 			padding: get-size(700);
