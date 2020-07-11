@@ -7,6 +7,8 @@ permalink: /resources/index.html
 
 **The following links are resources/influencers that I've learned from over the years. I hope you find these as sources as useful as I have!**
 
+**\| Accessibility | Animation | Design | Development |** 
+
 ### **Accessibility**
 
 * **Standards**
