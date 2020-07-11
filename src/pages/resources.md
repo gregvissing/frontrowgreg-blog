@@ -7,7 +7,7 @@ permalink: /resources/index.html
 
 **The following links are resources/influencers that I've learned from over the years. I hope you find these as sources as useful as I have!**
 
-**\| [Accessibility](#Link) | Animation | Design | Development |** 
+**\| [Accessibility](#accessibility) | Animation | Design | Development |** 
 
 ### **Accessibility**
 
@@ -114,8 +114,6 @@ permalink: /resources/index.html
   * [Sergei Kriger](https://www.sergeikriger.com/)
   * [Aaron Gustafson](https://www.aaron-gustafson.com/)
 * **Code**
-
-[Markdown - Link](#Link)
 
 * [CodePen - Hamburger Menu](https://codepen.io/shadeed/pen/PMygee)
 * [Having a Little Fun With Custom Focus Styles](https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/)
