@@ -12,12 +12,12 @@ permalink: /resources/index.html
 <details>
   <summary>Accessibility</summary>
   
-  \* \*\*Standards\**
+* **Standards**
 
-* [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
-* [Standards for Writing Accessibly](https://alistapart.com/article/standards-for-writing-accessibly/)
-* [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+  * [W3C Accessibility Standards Overview](https://www.w3.org/WAI/standards-guidelines/)
+  * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+  * [Standards for Writing Accessibly](https://alistapart.com/article/standards-for-writing-accessibly/)
+  * [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 * **Navigation**
 
   * [Accessible Mobile Navigation](https://www.a11ymatters.com/pattern/mobile-nav/)
@@ -115,8 +115,9 @@ permalink: /resources/index.html
   * [Sergei Kriger](https://www.sergeikriger.com/)
   * [Aaron Gustafson](https://www.aaron-gustafson.com/)
 * **Code**
-* [CodePen - Hamburger Menu](https://codepen.io/shadeed/pen/PMygee)
-* [Having a Little Fun With Custom Focus Styles](https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/)
+
+  * [CodePen - Hamburger Menu](https://codepen.io/shadeed/pen/PMygee)
+  * [Having a Little Fun With Custom Focus Styles](https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/)
 * **Documents**
 
   * [Kristina Podnar - Branding Policy](https://docs.google.com/document/d/1Bka7B6oeyF0N8H_kpR0oWtNQqoZkwvv1YcSlBXOy0CU/edit?usp=sharing)
