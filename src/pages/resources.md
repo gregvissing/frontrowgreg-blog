@@ -10,19 +10,17 @@ permalink: /resources/index.html
 **\| [Accessibility](#accessibility) | Animation | Design | Development |** 
 
 # A collapsible section with markdown
+
 <details>
-  <summary>### **Accessibility**</summary>
+  <summary>Accessibility</summary>
   
   ## Heading
   1. A numbered
   2. list
-     * With some
-     * Sub bullets
-
-
+     \* With some
+     \* Sub bullets
 
 </details>
-
 
 ### **Accessibility**
 
@@ -129,7 +127,6 @@ permalink: /resources/index.html
   * [Sergei Kriger](https://www.sergeikriger.com/)
   * [Aaron Gustafson](https://www.aaron-gustafson.com/)
 * **Code**
-
 * [CodePen - Hamburger Menu](https://codepen.io/shadeed/pen/PMygee)
 * [Having a Little Fun With Custom Focus Styles](https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/)
 * **Documents**
