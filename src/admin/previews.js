@@ -82,27 +82,6 @@ const Post = ({
 	/>
 );
 
-const Resource = ({
-	entry
-}) => ( <
-	Preview entry = {
-		entry
-	}
-	path = "layouts/resource.njk"
-	context = {
-		({
-			title,
-			date,
-			body
-		}) => ({
-			title,
-			date,
-			content: markdownFilter(body || ''),
-		})
-	}
-	/>
-);
-
 const Page = ({
 	entry
 }) => ( <
@@ -166,7 +145,6 @@ const Nav = ({
 
 CMS.registerPreviewTemplate('home', Home);
 CMS.registerPreviewTemplate('posts', Post);
-CMS.registerPreviewTemplate('resources', Resource);
 CMS.registerPreviewTemplate('generic_pages', Page);
 CMS.registerPreviewTemplate('site_data', SiteData);
 CMS.registerPreviewTemplate('nav', Nav);

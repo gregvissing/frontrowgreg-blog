@@ -46,23 +46,10 @@ module.exports = function (config) {
 		].reverse();
 	});
 
-	const liveResources = resource => resource.date <= now && !resource.data.draft;
-	config.addCollection('resources', collection => {
-		return [
-			...collection.getFilteredByGlob('./src/resources/*.md').filter(liveResources)
-		].reverse();
-	});
-
 	config.addCollection('postFeed', collection => {
 		return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
 			.reverse()
 			.slice(0, site.maxPostsPerPage);
-	});
-
-	config.addCollection('resourceFeed', collection => {
-		return [...collection.getFilteredByGlob('./src/resources/*.md').filter(liveResources)]
-			.reverse();
-			//.slice(0, site.maxResourcesPerPage);
 	});
 
 	// Plugins
