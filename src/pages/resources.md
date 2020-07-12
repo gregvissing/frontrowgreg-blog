@@ -12,36 +12,6 @@ as useful as I have!**
 **\| [Accessibility](#accessibility) | [Animation](#animation) | [Design](#design) | [Development](#development) |**
 
 <details>
-	<summary>Click to expand!</summary>
-
-	## Heading
-	1. A numbered
-	2. list
-	* With some
-	* Sub bullets
-</details>
-
-<details>
-	<summary>Click to expand!</summary>
-
-	## Heading
-	1. A numbered
-	2. list
-	* With some
-	* Sub bullets
-</details>
-
-<details>
-	<summary>Click to expand!</summary>
-
-	## Heading
-	1. A numbered
-	2. list
-	* With some
-	* Sub bullets
-</details>
-
-<details>
 	<summary>Accessibility</summary>
 
 	* **Standard**
@@ -176,7 +146,7 @@ as useful as I have!**
 	* [CodePen - Hamburger Menu](https://codepen.io/shadeed/pen/PMygee)
 	* [Having a Little Fun With Custom Focus
 	Styles](https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/)
-	* **Documents**
+ * **Documents**
 
 	* [Kristina Podnar - Branding
 	Policy](https://docs.google.com/document/d/1Bka7B6oeyF0N8H_kpR0oWtNQqoZkwvv1YcSlBXOy0CU/edit?usp=sharing)
