@@ -122,8 +122,9 @@ as useful as I have!**
   * [CodePen - Hamburger Menu](https://codepen.io/shadeed/pen/PMygee)
   * [Having a Little Fun With Custom Focus Styles](https://css-tricks.com/having-a-little-fun-with-custom-focus-styles/)
 * **Documents**
-* [Kristina Podnar - Branding Policy](https://docs.google.com/document/d/1Bka7B6oeyF0N8H_kpR0oWtNQqoZkwvv1YcSlBXOy0CU/edit?usp=sharing)
-* [Kristina Podnar - Logo standard](https://docs.google.com/document/d/1cgjG_LYLcjxJkklF-JkOxo-mFNX9cKXjx0WVT9Stl7U/edit?usp=sharing)
-* [Kristina Podnar - Privacy policy](https://docs.google.com/document/d/1lLZWnkZPWn8HVjR3nkH1lv2AHscaHjntjbeKPrKtp-M/edit?usp=sharing)
-* [Kristina Podnar - Privacy statement](https://docs.google.com/document/d/1ZeHNfqBDOXd7ZmTKIG9UFVukH75AJqZyAsEyM5QQ7dM/edit)
-* [Kristina Podnar - Accessibility policy we developed for Greg V](https://docs.google.com/document/d/12bQ7zFqiS5KLnDSC4nQU60JoL0CJarujsDUtlEB_KXI/edit?usp=sharing)
+
+  * [Kristina Podnar - Branding Policy](https://docs.google.com/document/d/1Bka7B6oeyF0N8H_kpR0oWtNQqoZkwvv1YcSlBXOy0CU/edit?usp=sharing)
+  * [Kristina Podnar - Logo standard](https://docs.google.com/document/d/1cgjG_LYLcjxJkklF-JkOxo-mFNX9cKXjx0WVT9Stl7U/edit?usp=sharing)
+  * [Kristina Podnar - Privacy policy](https://docs.google.com/document/d/1lLZWnkZPWn8HVjR3nkH1lv2AHscaHjntjbeKPrKtp-M/edit?usp=sharing)
+  * [Kristina Podnar - Privacy statement](https://docs.google.com/document/d/1ZeHNfqBDOXd7ZmTKIG9UFVukH75AJqZyAsEyM5QQ7dM/edit)
+  * [Kristina Podnar - Accessibility policy we developed for Greg V](https://docs.google.com/document/d/12bQ7zFqiS5KLnDSC4nQU60JoL0CJarujsDUtlEB_KXI/edit?usp=sharing)
