@@ -12,7 +12,6 @@ as useful as I have!**
 **\| [Accessibility](#accessibility) | [Animation](#animation) | [Design](#design) | [Development](#development) |**
 
 <details>
-<<<<<<< HEAD
 	<summary>Click to expand!</summary>
 
 	## Heading
@@ -190,7 +189,8 @@ as useful as I have!**
 	* [Kristina Podnar - Accessibility policy we developed for Greg
 	V](https://docs.google.com/document/d/12bQ7zFqiS5KLnDSC4nQU60JoL0CJarujsDUtlEB_KXI/edit?usp=sharing)
 </details>
-=======
+
+<details>
   <summary>Click to expand!</summary>
   
   ## Heading
