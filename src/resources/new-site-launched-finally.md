@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/resource.njk
 title: New site launched...finally
 date: 2020-07-05T22:00:38.538Z
 tags:

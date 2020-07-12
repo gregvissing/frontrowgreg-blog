@@ -1,7 +1,8 @@
 ---
 layout: layouts/page.njk
 title: Resources
-permalink: /resources/index.html
+permalink: /resources/index.html\
+tag: resource
 ---
 ## Bookmarks for Days!
 
