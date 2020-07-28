@@ -9,7 +9,7 @@ tags:
 ---
 An unfortunate reality of website projects is that it will need to be maintained by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to be catered to all audiences, include clear instructions for updating the website and give the client a sense of ownership & confidence during the website hand-off meeting.
 
-A useful skill that I developed early in my development career was creating a documentation for various SharePoint/InfoPath projects I completed during a previous job. By the time I started my first custom WordPress development position, my documentation skills were something I really emphasized during job interviews. During th
+A useful skill that I developed early in my development career was creating documentation manuals for various SharePoint/InfoPath projects I completed during a previous job. By the time I started my first custom WordPress development position, my documentation skills were something I really emphasized as a useful skill set. During 
 
 
 
