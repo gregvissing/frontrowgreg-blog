@@ -7,7 +7,13 @@ tags:
   - documentation
   - skills
 ---
-An unfortunate reality of website projects is that it will need to be maintained, in the future, by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to be catered to all audiences, include clear instructions for website updates and give the client a sense of ownership & confidence during the website hand-off meeting. To master this skill, the documentation author must be customer-service driven and able to explain technical details clearly enough for the administrator to understand.
+An unfortunate reality of website projects is that it will need to be maintained, in the future, by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to include the following five important assets
+
+1. Pretend documentation is intended for the user who has never touched this CMS 
+
+
+
+to be catered to all audiences, include clear instructions for website updates and give the client a sense of ownership & confidence during the website hand-off meeting. To master this skill, the documentation author must be customer-service driven and able to explain technical details clearly enough for the administrator to understand.
 
 1. Audience the manual is being written for.
 2. Step-by-step instructions
