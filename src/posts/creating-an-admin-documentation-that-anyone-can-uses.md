@@ -7,11 +7,9 @@ tags:
   - documentation
   - skills
 ---
-An unfortunate reality of website projects is that it will need to be maintained, in the future, by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to be catered to all audiences, include clear instructions for updating the website and give the client a sense of ownership & confidence during the website hand-off meeting. To master this skill, the author of this manual must be customer-service focused and able to explain technical details clearly enough for the administrator to understand.
+An unfortunate reality of website projects is that it will need to be maintained, in the future, by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to be catered to all audiences, include clear instructions for updating the website and give the client a sense of ownership & confidence during the website hand-off meeting. To master this skill, the documentation author must be customer-service driven and able to explain technical details clearly enough for the administrator to understand.
 
-
-
-A useful skill that I developed early in my development career was for various SharePoint/InfoPath projects I completed during a previous job. By the time I started my first custom WordPress development position, my documentation skills became a beneficial asset to my project workflow. During 
+Creating these manuals is a useful skill that I developed early in my development career was for various SharePoint/InfoPath projects I completed during a previous job. By the time I started my first custom WordPress development position, my documentation skills became a beneficial asset to my project workflow. During 
 
 
 
