@@ -7,9 +7,11 @@ tags:
   - documentation
   - skills
 ---
-An unfortunate reality of website projects is that it will need to be maintained, in the future, by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to include the following five important assets
+An unfortunate reality of website projects is that it will need to be maintained, in the future, by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to include the following five important assets:
 
-1. Pretend documentation is intended for the user who has never touched this CMS 
+1. Pretend documentation is intended for the user who has never touched this CMS.
+2. Include clear instructions for updating all parts of website.
+3. Give administrator confidence and ownership of any part of website that could be updated.
 
 
 
