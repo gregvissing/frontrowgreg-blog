@@ -12,7 +12,7 @@ An unfortunate reality of website projects is that it will need to be maintained
 1. Pretend documentation is intended for the user who has never touched this CMS.
 2. Include clear instructions for updating all parts of website.
 3. If words can't describe steps clear, use plenty of screenshots to strengthen understanding.
-4. Add tips 
+4. Add tips & hints to administrator when content needs to be added a certain way.
 5. Give administrator confidence and ownership of any part of website that could be updated.
 
 
