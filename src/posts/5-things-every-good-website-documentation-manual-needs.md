@@ -17,7 +17,7 @@ Before my first WP manual, I did my research before coming up with the contents 
 
 ## Include clear instructions for updating all parts of website.
 
-My personal preference is to make the documentation look professional including the Title Page and Table of Contents, respectively. The Table of Contents should contain anchor links to locations within the manual just in case the user is looking for section-specific instructions. In each section of the manual I layout the instructions in a numbered list outline format for the administrator to easily follow.
+My personal preference is to make the documentation look professional by including the Title Page and Table of Contents before the instructions. The Table of Contents should contain anchor links to locations within the manual just in case the user is looking for section-specific instructions. In each section of the manual I layout the instructions in a numbered list outline format for the administrator to easily follow.
 
 
 
