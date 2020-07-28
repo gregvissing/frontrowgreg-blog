@@ -13,24 +13,29 @@ An unfortunate reality of website projects is that it will need to be maintained
 
 Before my first WP manual, I did my research before coming up with the contents regarding would be the most important details/content to include. To make sure that the administrator logging in would be able to manage it, I decided that the audience I was writing to had never updated a WP website before. This strategy ensured that anyone, no matter their seniority at the company, would be able to seamlessly update the website. Allowing anyone, from the employee who just started to the company veteran, adds to the overall satisfaction of the completed website project.
 
-
+---
 
 ## Include clear instructions for updating all parts of website.
 
 My personal preference is to make the documentation look professional by including the Title Page and Table of Contents before the instructions. The Table of Contents should contain anchor links to locations within the manual just in case the user is looking for section-specific instructions. In each section of the manual I layout the instructions in a numbered list outline format for the administrator to easily follow.
 
-
+---
 
 ## If words can't describe steps clear, use plenty of screenshots to strengthen understanding.
 
+Test
 
+---
 
 ## Add tips & hints to administrator when content needs to be added a certain way.
 
+Test
 
+---
 
 ## Give administrator confidence and ownership of any part of website that could be updated.
 
+Test
 
 
 to be catered to all audiences, include clear instructions for website updates and give the client a sense of ownership & confidence during the website hand-off meeting. To master this skill, the documentation author must be customer-service driven and able to explain technical details clearly enough for the administrator to understand.
