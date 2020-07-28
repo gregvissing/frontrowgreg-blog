@@ -7,7 +7,7 @@ tags:
   - documentation
   - skills
 ---
-An unfortunate reality of website projects is that website will need to be maintained by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I knew the documentation would need to be catered to all audiences, have clear instructions for updating the website
+An unfortunate reality of website projects is that website will need to be maintained by the client without the developer's supervision. To avoid future website maintenance complaints or concerns I decided that the documentation would need to be catered to all audiences, include clear instructions for updating the website and give the client a sense of ownership/confidence during the website hand-off meeting.
 
 A useful skill that I learned early on in my WordPress Development career was creating a documentation for the administrator(s) of a website I developed. Since this was for my first custom web development position, I wanted to really show off the documentation skills I had attained while creating them for various SharePoint projects I completed during my previous job. I did my research before coming up with the contents regarding would be the most important details/content to include. To make sure that any admin with login credentials would be able to manage it, I decided that the audience I was writing to had never updated a WordPress website before. This strategy ensured that anyone, no matter their seniority at the company, would be able to seamlessly update the website. 
 
