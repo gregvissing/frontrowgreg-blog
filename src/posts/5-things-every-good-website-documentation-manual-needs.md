@@ -9,23 +9,23 @@ tags:
 ---
 An unfortunate reality of website projects is that it will need to be maintained, in the future, without the developer's supervision. Creating these manuals is a useful skill that I developed early in my development career for various SharePoint/InfoPath projects. By the time I started my first custom WordPress (WP) development position, my documentation skills became a beneficial asset to my project workflow. To avoid future client website maintenance complaints or concerns I decided that the documentation would need to include the following five important assets:
 
-### Pretend documentation is intended for the user who has never touched this CMS.
+## Pretend documentation is intended for the user who has never touched this CMS.
 
 Before my first WP manual, I did my research before coming up with the contents regarding would be the most important details/content to include. To make sure that any admin with login credentials would be able to manage it, I decided that the audience I was writing to had never updated a WP website before. This strategy ensured that anyone, no matter their seniority at the company, would be able to seamlessly update the website. 
 
 
 
-### Include clear instructions for updating all parts of website.
+## Include clear instructions for updating all parts of website.
 
-### If words can't describe steps clear, use plenty of screenshots to strengthen understanding.
-
-
-
-#### Add tips & hints to administrator when content needs to be added a certain way.
+## If words can't describe steps clear, use plenty of screenshots to strengthen understanding.
 
 
 
-### Give administrator confidence and ownership of any part of website that could be updated.
+## Add tips & hints to administrator when content needs to be added a certain way.
+
+
+
+## Give administrator confidence and ownership of any part of website that could be updated.
 
 
 
