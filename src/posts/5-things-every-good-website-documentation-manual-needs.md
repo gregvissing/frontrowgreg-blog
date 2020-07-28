@@ -11,11 +11,15 @@ An unfortunate reality of website projects is that it will need to be maintained
 
 ## Assume documentation is for beginner CMS user.
 
-Before my first WP manual, I did my research before coming up with the contents regarding would be the most important details/content to include. To make sure that any admin with login credentials would be able to manage it, I decided that the audience I was writing to had never updated a WP website before. This strategy ensured that anyone, no matter their seniority at the company, would be able to seamlessly update the website. Allowing anyone, from the employee who just started to the company veteran, adds to the overall satisfaction of the completed website project.
+Before my first WP manual, I did my research before coming up with the contents regarding would be the most important details/content to include. To make sure that the administrator logging in would be able to manage it, I decided that the audience I was writing to had never updated a WP website before. This strategy ensured that anyone, no matter their seniority at the company, would be able to seamlessly update the website. Allowing anyone, from the employee who just started to the company veteran, adds to the overall satisfaction of the completed website project.
 
 
 
 ## Include clear instructions for updating all parts of website.
+
+My personal preference is to make the documentation look professional by starting off with a title page and Table of Contents. The Table of Contents should contain anchor links to locations within the manual just in case the user is looking for specific instructions.
+
+
 
 ## If words can't describe steps clear, use plenty of screenshots to strengthen understanding.
 
