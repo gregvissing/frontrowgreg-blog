@@ -111,12 +111,14 @@ as useful as I have!**
 
   * [Higher Ed Accessibility Lawsuits, Complaints, and Settlements](https://www.d.umn.edu/~lcarlson/atteam/lawsuits.html)
   * [Feds Prod Universities to Address Website Accessibility Complaints](https://www.insidehighered.com/news/2018/11/06/universities-still-struggle-make-websites-accessible-all)
-* **Influencers**
+* **Influencers to Follow**
 
   * [Kristina Podnar](https://www.kpodnar.com/)
   * [Sara Soueidan](https://www.sarasoueidan.com/)
   * [Sergei Kriger](https://www.sergeikriger.com/)
   * [Aaron Gustafson](https://www.aaron-gustafson.com/)
+
+    Marcy Sutton
 * **Code**
 
   * [CodePen - Hamburger Menu](https://codepen.io/shadeed/pen/PMygee)
@@ -128,3 +130,14 @@ as useful as I have!**
   * [Kristina Podnar - Privacy policy](https://docs.google.com/document/d/1lLZWnkZPWn8HVjR3nkH1lv2AHscaHjntjbeKPrKtp-M/edit?usp=sharing)
   * [Kristina Podnar - Privacy statement](https://docs.google.com/document/d/1ZeHNfqBDOXd7ZmTKIG9UFVukH75AJqZyAsEyM5QQ7dM/edit)
   * [Kristina Podnar - Accessibility policy we developed for Greg V](https://docs.google.com/document/d/12bQ7zFqiS5KLnDSC4nQU60JoL0CJarujsDUtlEB_KXI/edit?usp=sharing)
+</details>
+
+<details>
+	<summary>Animation</summary>
+
+* **Influencers to Follow**
+
+  * [Chris Gannon](https://twitter.com/ChrisGannon)
+  * [Sarah Drasner](https://twitter.com/sarah_edo)
+  * [Carl Schoof](https://twitter.com/snorklTV)
+</details>
