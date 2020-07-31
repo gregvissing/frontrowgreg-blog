@@ -7,7 +7,7 @@ tags:
   - html
   - css
 ---
-Have you ever had that moment during a meeting where you get frustrated explaining terminology, which you thought your co-workers knew? 
+Have you ever had that moment during a meeting where you get frustrated explaining terminology, which you thought your co-workers knew? This post explains a recent frustration I had and the positive end result I hope to achieve.
 
 After a recent meeting with the designers on my team, I came away a little frustrated about the communication gap regarding how HTML elements are laid out on a page. Their work consists mostly of designing for print, so my frustration quickly pivoted to an idea based on creating an HTML/CSS workshop to mentor them, in hopes of getting them on the same page. 
 
