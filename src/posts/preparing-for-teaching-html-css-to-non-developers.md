@@ -7,6 +7,6 @@ tags:
   - html
   - css
 ---
-After a recent meeting with the designers on my team, I came away a little frustrated about the communication gap regarding how HTML elements are laid out on a page. Their work consists mostly of designing for print, so my frustration quickly pivoted to an idea to creating an HTML/CSS workshop to mentor them, in hopes of getting them on the same page. 
+After a recent meeting with the designers on my team, I came away a little frustrated about the communication gap regarding how HTML elements are laid out on a page. Their work consists mostly of designing for print, so my frustration quickly pivoted to an idea based on creating an HTML/CSS workshop to mentor them, in hopes of getting them on the same page. 
 
 Thinking it be great if they knew what I was talking about when discussing basic HTML elements regarding how I use them on a page. I've always wanted to create my own course on a platform, such as Teachable, but never found the time to put one together. 
