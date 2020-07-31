@@ -9,7 +9,7 @@ tags:
 ---
 Have you ever had a moment during a meeting where you got frustrated explaining terminology because you thought your co-workers knew it already? This post explains a recent meeting I had and the positive end result I hope to achieve.
 
-I work on a team at the University of Cincinnati Foundation where I'm the only Web Developer mixed with writers and graphic designers. The meeting, which this post references, was with the three graphic designers on the team regarding website aesthetic updates. Their work consists mostly of designing for print, so my frustration quickly pivoted to an idea based on creating an HTML/CSS workshop to mentor them, in hopes of getting them on the same page. 
+I work on a team where I'm the only Web Developer mixed with writers and graphic designers. The meeting, which this post references, was with the three graphic designers on the team regarding website aesthetic updates. Their work consists mostly of designing for print, so my frustration quickly pivoted to an idea based on creating an HTML/CSS workshop to mentor them, in hopes of getting them on the same page. 
 
 After a recent meeting with the designers on my team, I came away a little frustrated about the communication gap regarding how HTML elements are laid out on a page. Their work consists mostly of designing for print, so my frustration quickly pivoted to an idea based on creating an HTML/CSS workshop to mentor them, in hopes of getting them on the same page. 
 
