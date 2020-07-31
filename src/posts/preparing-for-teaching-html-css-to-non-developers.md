@@ -7,4 +7,4 @@ tags:
   - html
   - css
 ---
-I'm using this post to document my journey!
+After a recent meeting with the designers on my team, I came away thinking it be great if they knew what I was talking about when discussing basic HTML elements regarding how I use them on a page.
