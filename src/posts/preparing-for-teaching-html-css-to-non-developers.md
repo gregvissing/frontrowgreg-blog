@@ -7,7 +7,7 @@ tags:
   - html
   - css
 ---
-Have you ever had that moment during a meeting where you get frustrated explaining terminology, which you thought your co-workers knew? This post explains a recent frustration I had and the positive end result I hope to achieve.
+Have you ever had that moment during a meeting where you get frustrated explaining terminology because you thought your co-workers knew it already? This post explains a recent frustration I had and the positive end result I hope to achieve.
 
 I work on a team at the University of Cincinnati Foundation where I'm the only Web Developer mixed with writers and graphic designers. The meeting, which this post references, was with the three graphic designers on the team. 
 
