@@ -1,6 +1,9 @@
 ---
 layout: layouts/post.njk
 title: Words of Wisdom by Stan Lee regarding Work
+metaTitle: Words of Wisdom by Stan Lee regarding Work
+metaDesc: "In this post, Stan Lee's inspiring quote about careers will make you
+  reflect on your current career. "
 date: 2020-09-26T20:07:29.003Z
 tags:
   - Learning; Work
