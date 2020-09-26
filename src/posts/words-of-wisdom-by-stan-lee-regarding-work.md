@@ -5,7 +5,7 @@ date: 2020-10-25T06:49:56.899Z
 tags:
   - Words of Wisdom; Stan Lee
 ---
-It's been almost two years since the passing of [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee), but the following quote of his always makes me reflect on what I've learned, to do the job that I love.
+It's been almost two years since the passing of [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee), but the following quote of his always makes me reflect on what I've learned and the enjoyment I get out of my career.
 
 > I think whatever you do you should **do what you most want to do** and **what you’re best at**. Too many people don’t do what their heart’s desire is. They try to do something else ’cause they think **it will be easy** to get a job or make money. And if that happens then when you’re doing it **you feel like you’re working**. But if you do what you really want to do you **feel like you’re playing** and it’s **easier for you to do**. **\- Stan Lee**
 
