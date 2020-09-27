@@ -42,6 +42,12 @@ details {
 			@include apply-utility("leading", "tight");
 		}
 
+		p {
+			&a:not([class]) {
+				padding: 0.2rem 0 0.3rem 0;
+			}
+		}
+
 		a:not([class]):hover {
 			text-decoration: underline;
 		}
