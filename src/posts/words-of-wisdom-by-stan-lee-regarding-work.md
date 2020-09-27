@@ -12,6 +12,7 @@ It's been almost two years since the passing of [Stan Lee](https://en.wikipedia.
 
 > I think whatever you do you should **do what you most want to do** and **what you’re best at**. Too many people don’t do what their heart’s desire is. They try to do something else ’cause they think **it will be easy** to get a job or make money. And if that happens then when you’re doing it **you feel like you’re working**. But if you do what you really want to do you **feel like you’re playing** and it’s **easier for you to do**. **\- Stan Lee**
 
+I recommend listening to the audio version of this quote. The first time I heard it I had chills because it really resonated with me. 
 <figure>
     <figcaption>Audio of Stan Lee quote:</figcaption>
     <audio
