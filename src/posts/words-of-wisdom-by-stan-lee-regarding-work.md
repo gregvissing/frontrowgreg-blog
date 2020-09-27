@@ -12,7 +12,7 @@ It's been almost two years since the passing of [Stan Lee](https://en.wikipedia.
 
 > I think whatever you do you should **do what you most want to do** and **what you’re best at**. Too many people don’t do what their heart’s desire is. They try to do something else ’cause they think **it will be easy** to get a job or make money. And if that happens then when you’re doing it **you feel like you’re working**. But if you do what you really want to do you **feel like you’re playing** and it’s **easier for you to do**. **\- Stan Lee**
 
-<audio src="https://res.cloudinary.com/gvissing/video/upload/v1601208555/Stan-Lee-quote_gbbk2t.mp3">
+[audio](https://res.cloudinary.com/gvissing/video/upload/v1601208555/Stan-Lee-quote_gbbk2t.mp3 "Stan Lee quote")
 
 Too often I see people either settling for their current job that they hate or getting in the field they want to be in, but not pushing themselves to be the best they can be and moving up the ladder. I used to be in that situation but learned my lesson once I realized I had to keep learning to make projects easier to plan and build. Since that job I've really built up a foundation of knowledge that makes each part of the project go smoother.
 
