@@ -7,9 +7,11 @@
 	<main id="main-content" tabindex="-1">
 		<article class="[ post ] [ h-entry ]">
 			{% include "partials/components/intro.njk" %}
-			<div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
-				{{ content | safe }}
+			<div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ][ ]">
+				<p>If you have a topic suggestion for me or just want to chat, send me an <a href="mailto:frontrowgreg@gmail.com">email</a>!</p>
+				<p>You can also follow me or get in touch via social media.</p>
 				{% include "partials/components/contact-form.njk" %}
+				{{ content | safe }}
 			</div>
 		</article>
 	</main>

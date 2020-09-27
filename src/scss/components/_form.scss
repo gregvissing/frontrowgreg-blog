@@ -1,7 +1,8 @@
 /* Form */
 
 form {
-	max-width: 35rem;
+	display: inline-block;
+	max-width: 50%; // 35rem;
 }
 
 form br {
@@ -87,12 +88,19 @@ legend {
 	}
 }
 
-.social-icons {
-	display: flex;
-	justify-content: center;
-	height: 250px;
+// .contact {
+// 	display: flex;
+// 	flex-direction: row-reverse;
+// }
 
+.social-icons {
+	display: inline-block;
+	vertical-align: top; 
+	height: 250px;
+	width: 50%;
 	position: relative;
+	text-align: center;
+	margin-top: var(--flow-space);
 
 	a {
 		font-size: 0;
@@ -100,31 +108,33 @@ legend {
 		transition: color .2s ease-out;
 		display: inline-block;
 
-		position: relative;
+		position: absolute;
 		min-width: 2.5rem;
 		min-height: 2.5rem;
 		padding: .5rem;
 		box-sizing: border-box;
 		background-color: var(--demo-bg);
 		border: 1px solid var(--demo-border);
-		margin: auto;
+		// margin: auto;
+
+		&:first-child {
+			// margin-right: 0;
+			left: 10%
+		}
+
+		&:nth-child(2) {
+			// margin-left: 0;
+			right: 10%;
+		}
 
 		svg {
 			height: 2rem;
-		}
-
-		&:first-child {
-			margin-right: 0;
-		}
-
-		&:last-child {
-			margin-left: 0;
 		}
 	}
 
 	#avatar.contact {
 		width: 250px;
-		margin: 0;
+		margin: 0 auto;
 	}
 }
 
