@@ -14,17 +14,6 @@ It's been almost two years since the passing of [Stan Lee](https://en.wikipedia.
 
 I recommend listening to the audio version of this quote. The first time I heard it I had chills because it really resonated with me. 
 
-<figure>
-    <figcaption>Audio of Stan Lee quote:</figcaption>
-    <audio
-        controls
-
-src="https://res.cloudinary.com/gvissing/video/upload/v1601208555/Stan-Lee-quote_gbbk2t.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
-
 Too often I see people either settling for their current job that they hate or getting in the field they want to be in, but not pushing themselves to be the best they can be and moving up the ladder. I used to be in that situation but learned my lesson once I realized I had to keep learning to make projects easier to plan and build. Since that job I've really built up a foundation of knowledge that makes each part of the project go smoother.
 
 When Mr. Lee mentioned someone just getting a job because they think it will be easy or just to make money, it made me wonder how many people out there are like that. I'm sure there could be variables such as money or time to learn a new skill/trade. When someone is unhappy with their job you can usually tell right away. Their attitude, either on the job or social media posts complaining about it, can often be a bad reflection on the company. There are times when I'll ask those I'm familiar with if they are interested in the IT/Web Development field because I love helping others gain new knowledge that could be useful for a future job/project. I have a plethora of bookmarks that I've categorized to get someone's resources on the spot. I'm actually currently helping a friend of mine break into the Development field. I talked to him on the phone and gave him the Pros/Cons of the job as well as my recommendations on the type of Development job he might be most interested in based on what kind of work he wants to do.
