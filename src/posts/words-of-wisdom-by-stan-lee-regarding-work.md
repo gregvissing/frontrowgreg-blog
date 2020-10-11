@@ -6,13 +6,18 @@ metaDesc: In this post, Stan Lee's inspiring quote about careers will make you
   reflect on your current career.
 date: 2020-09-26T20:47:52.294Z
 tags:
-  - Learning; Work
+  - Learning
+  - Work
 ---
 It's been almost two years since the passing of [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee), but the following quote of his always makes me reflect on what I've learned and the enjoyment I get out of my career.
 
 > I think whatever you do you should **do what you most want to do** and **what you’re best at**. Too many people don’t do what their heart’s desire is. They try to do something else ’cause they think **it will be easy** to get a job or make money. And if that happens then when you’re doing it **you feel like you’re working**. But if you do what you really want to do you **feel like you’re playing** and it’s **easier for you to do**. **\- Stan Lee**
 
 I recommend listening to the audio version of this quote. The first time I heard it I had chills because it really resonated with me. 
+
+<figure><figcaption>Audio of Stan Lee quote:</figcaption><audio controls src="https://res.cloudinary.com/gvissing/video/upload/v1601208555/Stan-Lee-quote_gbbk2t.mp3">
+            Your browser does not support the
+            <code>audio</code> element.</audio></figure>
 
 Too often I see people either settling for their current job that they hate or getting in the field they want to be in, but not pushing themselves to be the best they can be and moving up the ladder. I used to be in that situation but learned my lesson once I realized I had to keep learning to make projects easier to plan and build. Since that job I've really built up a foundation of knowledge that makes each part of the project go smoother.
 
