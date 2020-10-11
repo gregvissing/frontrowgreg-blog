@@ -6,7 +6,8 @@ metaDesc: In this post, Stan Lee's inspiring quote about careers will make you
   reflect on your current career.
 date: 2020-09-26T20:47:52.294Z
 tags:
-  - Learning; Work
+  - Learning
+  - Work
 ---
 It's been almost two years since the passing of [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee), but the following quote of his always makes me reflect on what I've learned and the enjoyment I get out of my career.
 
