@@ -12,4 +12,4 @@ From a personal perspective, it's been stressful on my wife and I to get our kid
 
 On the professional side of my life, there were a couple of conference trips that I was looking forward to going to in 2020. [Smashing Conference](https://smashingconf.com) in Austin (June) and [An Event Apart](https://aneventapart.com/) in Orlando (October). I had been researching food options in Austin since the event was announced and the Orlando trip was going to be part of a two-week family vacation that included going to our favorite vacation spot, Walt Disney World. I did end up getting to attend some virtual Smashing Conferences, which were organized very well using the [Hopin](https://hopin.com/) platform.
 
-I've added a lot of talented professionals to my network of resources to learn from. I'm grateful for each one of them that I've learned from but
+I've added a lot of talented professionals to my network of resources to learn from. I'm grateful for each one of them that I've learned from but there a couple that deserve extra recognition based on how much they've helped me. Carl Schoof, for his animation courses and Chris Kastner, for his knowl
