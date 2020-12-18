@@ -7,3 +7,5 @@ tags:
   - year end review
 ---
 As I sit back and reflect on the year that was 2020, I can't help but feel like I was on the longest and tallest roller coaster. It was full of ups, downs, and moments where my stomach felt like it was in a knot.
+
+From a personal perspective, it's been stressful on my wife and I getting our kids through at-home learning. It's been a tag-team effort getting them to stay focused and complete everything. All in all, I'm proud of them for how they handled it in stride and still doing great in school. During this pandemic, I've gained a new appreciation for what teachers do and the work required to keep the kids focused and eager to learn new things.
