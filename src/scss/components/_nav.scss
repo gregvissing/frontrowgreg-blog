@@ -1,47 +1,40 @@
 .nav {
-	&__list {
-		overflow-x: auto;
-
-		// Add padding and neg margin to allow focus style visibility
-		padding: 0.5rem;
-		margin: -0.5rem;
-		-webkit-overflow-scrolling: touch;
-		-ms-overflow-style: none;
-
-		&::-webkit-scrollbar {
-			display: none;
-		}
-
-		>*+* {
-			margin-left: get-size(500);
-		}
-	}
-
-	&__item {
-		padding: get-size(300) 0;
-		flex-shrink: 0;
-
-		a {
-			color: currentColor;
-			text-transform: capitalize;
-			@include transition (all, 0.4s, ease-in-out);
-			@include apply-utility('weight', 'mid');
-
-			&:not(:hover) {
-				text-decoration: none;
-			}
-
-			// &[aria-current='page'] {
-			// 	color: var(--color-highlight);
-			// }
-		}
-	}
+    &__list {
+        overflow-x: auto;
+        // Add padding and neg margin to allow focus style visibility
+        padding: 0.5rem;
+        margin: -0.5rem;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: none;
+        &::-webkit-scrollbar {
+            display: none;
+        }
+        >*+* {
+            margin-left: get-size(500);
+        }
+    }
+    &__item {
+        padding: get-size(300) 0;
+        flex-shrink: 0;
+        a {
+            color: currentColor;
+            text-transform: capitalize;
+            @include transition (all, 0.4s, ease-in-out);
+            @include apply-utility('weight', 'mid');
+            &:not(:hover) {
+                text-decoration: none;
+            }
+            // &[aria-current='page'] {
+            // 	color: var(--color-highlight);
+            // }
+        }
+    }
 }
 
 .nav:not(.light) .nav__item a[aria-current='page'] {
-	color: var(--color-highlight);
+    color: var(--color-highlight);
 }
 
 .nav.light .nav__item a[aria-current='page'] {
-	color: dodgerBlue;
+    color: dodgerBlue;
 }
