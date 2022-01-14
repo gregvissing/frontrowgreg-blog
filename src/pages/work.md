@@ -6,10 +6,10 @@ permalink: /work/index.html
 I've listed some of my favorite projects that I've built through the years. These applications capture a wide range of the applications and technologies.
 
 [University of Cincinnati Foundation](https://foundation.uc.edu/)\
-Technologies: HTML5, CSS3, JavaScript, jQuery, VueJS, Blackbaud Internet Solutions
+Technologies: HTML5, CSS3, JavaScript, jQuery, Blackbaud Internet Solutions, Blackbaud CRM
 
 [University of Cincinnati Foundation Giving Form](https://foundation.uc.edu/give)\
-Technologies: HTML5, CSS3, JavaScript, jQuery, Blackbaud Internet Solutions
+Technologies: HTML5, CSS3, JavaScript, jQuery, Blackbaud Internet Solutions, Blackbaud CRM
 
 [Cancer Ends Here](https://foundation.uc.edu/cancer-ends-here)\
 Technologies: HTML5, CSS3, JavaScript, jQuery, SCSS, WordPress
