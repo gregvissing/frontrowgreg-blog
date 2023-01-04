@@ -12,10 +12,10 @@ Technologies: HTML5, CSS3, JavaScript, jQuery, Blackbaud Internet Solutions, Bla
 Technologies: HTML5, CSS3, JavaScript, jQuery, Blackbaud Internet Solutions, Blackbaud CRM
 
 [Cancer Ends Here](https://foundation.uc.edu/cancer-ends-here)\
-Technologies: HTML5, CSS3, JavaScript, jQuery, SCSS, WordPress
+Technologies: HTML5, CSS3, JavaScript, jQuery, Blackbaud Internet Solutions, Blackbaud CRM
 
 [UCGNI Designation Search](https://foundation.uc.edu/ucgni)\
-Technologies: HTML5, CSS3, JavaScript, jQuery, SCSS, WordPress
+Technologies: HTML5, CSS3, JavaScript, jQuery, Blackbaud Internet Solutions, Blackbaud CRM
 
 [Kroger Team Stories](https://www.krogerstories.com/)\
 Technologies: HTML5, CSS3, JavaScript, jQuery, SCSS, WordPress
