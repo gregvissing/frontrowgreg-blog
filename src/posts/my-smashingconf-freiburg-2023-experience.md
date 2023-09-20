@@ -3,4 +3,4 @@ layout: layouts/post.njk
 title: My SmashingConf Freiburg 2023 experience!
 date: 2023-09-20T12:40:17.847Z
 ---
-M﻿y experience at SmashingConf Freiburg 🇩🇪 is one I'll never forget. It was my first trip overseas
+M﻿y experience at SmashingConf Freiburg 🇩🇪 is one I'll never forget. It was my first trip overseas to the original SmashingConf location at the Historical Merchants't Hall.
