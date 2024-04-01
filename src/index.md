@@ -3,8 +3,9 @@ layout: home
 title: Front-End Developer & UI Designer
 metaTitle: ""
 metaDesc: ""
-postsHeading: Latest posts
+"": Test
 archiveButtonText: See all posts
 socialImage: /images/frontrowgreg.png
+postsHeading: Latest posts
 ---
-Follow along my Web Development adventure as I write about the various projects I'm working on, handy tips & tricks and solutions that have helped me out.
+Follow along my Web Development adventure as I write about the various projects I'm working on, handy tips & tricks and solutions that have helped me out!
