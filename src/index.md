@@ -3,7 +3,7 @@ layout: home
 title: Front-End Developer & UI Designer
 metaTitle: ""
 metaDesc: ""
-"": Test
+"": Front Row Greg
 archiveButtonText: See all posts
 socialImage: /images/frontrowgreg.png
 postsHeading: Latest posts
