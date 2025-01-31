@@ -50,3 +50,18 @@ When the abstract is finished, the talk will need to be given a title. If title 
   If you’ve already mastered steps one and two, your headline is already 85% of the way there. 
 
   And I always prioritize clarity over cleverness. If the headline doesn’t instantly communicate the value viewers will receive from your content, they won’t click.
+
+  Here are some of my favorite ways to make a headline more intriguing:
+
+  * **Mention a benefi**t: Ask yourself what benefit the reader will receive by reading your article.
+
+    * *Example: How To Write A Headline That Increases Clicks*
+  * **Mention a pain point**: What problem is the audience currently facing that drove them to search for this in the first place?
+
+    * *Example: Why Nobody Clicks Your Headlines (And The Solution)* 
+  * **Answer an objection**: If someone has already tried to solve the problem, why didn’t it work? Or if they’ve already searched this problem, why did the advice not work?
+
+    * *Example: 7 Headline Tips That You Haven’t Tried Yet* (The objection here might be that most people have already heard all the headline tricks in the book, but they still aren’t working).
+  * **Provide proof:** This works particularly well for case study posts.
+
+    * *Example: The Headline Formula That 10xed My Channel In 30 Days*
