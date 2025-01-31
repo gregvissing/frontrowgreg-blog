@@ -43,4 +43,6 @@ When the abstract is finished, the talk will need to be given a title. If title 
   * Feeling more confident that your headlines are good
 
   Therefore, always select the *primary* goal of a reader/viewer searching for your content.
-* **S﻿tep 3: What is the Element of Intrigue?**
+* **S﻿tep 3: What is the Element of Intrigue?** Adding intrigue is often the first tip mentioned when discussing how to write a great headline, but it’s actually the least important.
+
+  This is because ***the ultimate headline hack is communicating to the viewer that your content is the solution to help them achieve their goal/solve their problem***.
