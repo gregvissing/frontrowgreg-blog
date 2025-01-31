@@ -23,3 +23,5 @@ The abstract of my talk will be my 30-second elevator pitch, where my audience i
 * **Why should they be excited to see this talk?** This can be a wide range of things. You might write about a specific experience, or discuss your new solution to a frequently experienced problem. Try to build excitement, credibility, or intrigue to draw interest into your presentation.
 
 **Step 3 - Choose a title**
+
+When the abstract is finished, the talk will need to be given a title. If that title pops, that's great but it's not the most important thing. The key to a great title is making sure the title clearly states what the topic is.
