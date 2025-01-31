@@ -31,4 +31,15 @@ When the abstract is finished, the talk will need to be given a title. If title 
   \
   For example, the goal of someone searching "how to write a headline" is likely increasing clicks to their content.
 
-  That’s why I decided to title this post "How to Write A Headline That Makes People Click."
+  That’s why I decided to title this post "How to Write A Headline That Makes People Click."\
+  \
+  Then, I determined that **the goal of someone searching for content on improving headlines** is to **increase clicks**. 
+
+  Therefore, always select the *primary* goal of a reader/viewer searching for your content. \
+  \
+  I also want to mention that someone might have multiple goals for reading this content. For example, you might want to increase clicks, but you probably also have other goals like:
+
+  * Ranking higher in search engines 
+  * Generating more brand awareness
+  * Spending less time writing headlines
+  * Feeling more confident that your headlines are good
