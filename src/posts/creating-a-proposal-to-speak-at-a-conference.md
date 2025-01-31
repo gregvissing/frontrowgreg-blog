@@ -24,4 +24,7 @@ The abstract of my talk will be my 30-second elevator pitch, where my audience i
 
 **Step 3 - Choose a title**
 
-When the abstract is finished, the talk will need to be given a title. If that title pops, that's great but it's not the most important thing. The key to a great title is making sure the title clearly states what the topic is.
+When the abstract is finished, the talk will need to be given a title. If title of the talk pops, that's great, but it's not the most important thing. The key to a great title is making sure the title clearly states what the topic is. In the blog post, "[How to Write a Headline that Makes People Click](https://copyblogger.com/how-to-write-headlines-that-work/)", they give a 3-step framework. 
+
+* **S﻿tep 1: What does the content deliver?** The title should align with the information that the content actually delivers. It is encouraged to brainstorm titles before writing the content to make sure the maximum amount of people can relate to the content.
+* S﻿tep 2: What is the Goal of Someone Consuming this Content?
