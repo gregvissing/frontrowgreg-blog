@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Front-End Developer & UI Designer
+title: Senior Web Developer & UI/UX Designer
 metaTitle: ""
 metaDesc: ""
 "": Front Row Greg
