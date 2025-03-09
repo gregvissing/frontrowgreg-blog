@@ -76,3 +76,8 @@ img {
 @import 'components/skip-link';
 @import 'components/syntax-highlighting';
 @import 'components/video-player';
+
+/* Hide Contact Form */
+form[name="contact"] {
+	display: none !important;
+}
