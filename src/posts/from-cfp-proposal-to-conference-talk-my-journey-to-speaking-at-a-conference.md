@@ -9,7 +9,7 @@ E﻿ver since attending my first conference in 2018, I've always looked up to th
 
 * P﻿racticing speaking in front of groups while making eye contact and speaking clearly.
 * Getting over imposter syndrome.
-* S﻿tructuring a conference talk with slides.
+* S﻿peaking in the terminology in which everyone will understand the context from which I'm coming from.
 
 P﻿ublic speaking, ever since high school, has often been a weakness of mine. I'm often thinking about the tone of my voice or making sure I'm not saying "umm" or "uhh" too much while speaking in front of a group. Over the past year, I feel like my confidence with this has grown more than it has in a while. The department I work in has hosted educational sessions about the services we offer to our colleges. This has given me the opportunity to carve out time to get practice speaking in front of a group of around 25 people.
 
