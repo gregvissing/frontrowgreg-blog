@@ -12,3 +12,5 @@ E﻿ver since attending my first conference in 2018, I've always looked up to th
 * S﻿tructuring a conference talk with slides.
 
 P﻿ublic speaking, ever since high school, has often been a weakness of mine. I'm often thinking about the tone of my voice or making sure I'm not saying "umm" or "uhh" too much while speaking in front of a group. Over the past year, I feel like my confidence with this has grown more than it has in a while. The department I work in has hosted educational sessions about the services we offer to our colleges. This has given me the opportunity to carve out time to get practice speaking in front of a group of around 25 people.
+
+A﻿s I was filling out my first application to speak at a conference, I started having doubts of whether I was qualified to speak or even have my proposal accepted.
