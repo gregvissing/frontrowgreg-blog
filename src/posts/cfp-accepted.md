@@ -23,4 +23,4 @@ Since finding out I was going to speak at the Digital Collegium conference, at t
 
 "﻿I advise that you lean into the why of your talk (why is what you are saying important for folks to hear) and think about the 3 critical content pieces: what do you want them to know, what do you want them to feel, and what do you want them to do? Everything you say should be in support of those elements. People are coming to hear you speak because they are genuinely interested in your topic. They want you to succeed!" - Kristina Podnar
 
-T﻿hanks to all
+T﻿hanks to all who responded to my inquiry for tips and advice! Hopefully these tips could help someone else reading these. I look forward to posting more as I prepare for this exciting challenge!
