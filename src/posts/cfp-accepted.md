@@ -5,7 +5,9 @@ date: 2025-05-10T05:07:15.469Z
 tags:
   - speaking
 ---
-I﻿t was May 2nd that I found out that my conference talk proposal was accepted! I remember submitting my proposal of Design Systems: Bridging the Gap Between Developers and Designers on February 19th unsure if my talk would be picked. Part of me, at the time, wondered if I was even qualified to speak on the topic of Design Systems. It's been around a year since we started the creation of our Design System at the University of Cincinnati Foundation. Through multiple meetings with the designers, we discussed, debated and tested our ideas of how we wanted the design system to turn out. Each of us set our ego aside to work toward a common goal. **Uniform styles across the website**. Since finding out I was going to speak at the Digital Collegium conference, at the end of September, I've reached out to speakers whom I've met at the various Smashing Conferences I've attend for tips and advice. The following are some of the responses I've received.
+I﻿t was May 2nd that I found out that my conference talk proposal was accepted! I remember submitting my proposal of Design Systems: Bridging the Gap Between Developers and Designers on February 19th unsure if my talk would be picked. Part of me, at the time, wondered if I was even qualified to speak on the topic of Design Systems. It's been around a year since we started the creation of our Design System at the University of Cincinnati Foundation. Through multiple meetings with the designers, we discussed, debated and tested our ideas of how we wanted the design system to turn out. Each of us set our ego aside to work toward a common goal. **Uniform styles across the website**. 
+
+Since finding out I was going to speak at the Digital Collegium conference, at the end of September, I've reached out to speakers whom I've met at the various Smashing Conferences I've attend for tips and advice. The following are some of the responses I've received.
 
 "﻿One tip I often share is to think of your talk as a gift to your audience—not a performance, but a connection." - Yiying Lu
 
@@ -20,3 +22,5 @@ I﻿t was May 2nd that I found out that my conference talk proposal was accepted
 "﻿I like to story board on note cards before getting into the slides. Allows you to quickly iterate move things around and think of visuals you might want to lead with. Then you can start to massage the messaging like the hook and closer once you feel like the story is fleshed out." - Harrison Wheeler
 
 "﻿I advise that you lean into the why of your talk (why is what you are saying important for folks to hear) and think about the 3 critical content pieces: what do you want them to know, what do you want them to feel, and what do you want them to do? Everything you say should be in support of those elements. People are coming to hear you speak because they are genuinely interested in your topic. They want you to succeed!" - Kristina Podnar
+
+T﻿hanks to all
