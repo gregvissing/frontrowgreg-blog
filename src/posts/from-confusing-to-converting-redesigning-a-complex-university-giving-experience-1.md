@@ -24,5 +24,6 @@ U﻿pgrades to redesigned giving form
 * C﻿ommon questions section answers most frequent inquieries received by Gift Processing team.
 * A﻿ddress autocomplete saves user time by reducing the amount of typing needed. It prevents common typos in address information allowing for more accurate information.
 * P﻿hone number validation checks to ensure phone number is entered in the correct format based on country/area code selected.
-* R﻿emoved step of needing to go to Review page to check out.
-*
+* R﻿emoved Review page to check out.
+* N﻿avigation buttons ("back" and "continue") allow user to updates to form.
+* P﻿rogress bar at top increases donor motivation and conversation rates.
