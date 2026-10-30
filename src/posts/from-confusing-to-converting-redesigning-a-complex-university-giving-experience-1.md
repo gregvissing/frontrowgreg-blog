@@ -13,7 +13,7 @@ Issues with old giving form
 * A﻿dding fund(s) not intuitive.
 * N﻿o real-time error checking.
 * N﻿o default amounts to select.
-* R﻿eview page felt disjointed from giving form.
+* R﻿eview page felt disjointed from giving form. Occurrences of double giving to same fund.
 
 U﻿pgrades to redesigned giving form
 
@@ -24,3 +24,5 @@ U﻿pgrades to redesigned giving form
 * C﻿ommon questions section answers most frequent inquieries received by Gift Processing team.
 * A﻿ddress autocomplete saves user time by reducing the amount of typing needed. It prevents common typos in address information allowing for more accurate information.
 * P﻿hone number validation checks to ensure phone number is entered in the correct format based on country/area code selected.
+* R﻿emoved step of needing to go to Review page to check out.
+*
