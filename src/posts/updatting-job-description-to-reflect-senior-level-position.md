@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Updatting Job Description to Reflect Senior-Level Position
+title: Updating Job Description to Reflect Senior-Level Position
 date: 2020-10-25T06:29:54.056Z
 tags:
   - job promotion; promotion proposal
