@@ -9,7 +9,7 @@ T﻿his post will serve as an outline for a talk about redesigning our giving fo
 Issues with old giving form:
 
 * S﻿low loading of funds.
-* Cognitive overload with all fields showing on the page.
+* Cognitive overload due to all fields showing on the page.
 * A﻿dding fund(s) not intuitive.
 * N﻿o real-time error checking.
 * N﻿o default amounts to select.
