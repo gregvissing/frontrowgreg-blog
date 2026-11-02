@@ -27,3 +27,5 @@ U﻿pgrades to redesigned giving form:
 * R﻿emoved Review page to check out.
 * N﻿avigation buttons ("back" and "continue") allow user to updates to form.
 * P﻿rogress bar at top increases donor motivation and conversation rates.
+
+A
